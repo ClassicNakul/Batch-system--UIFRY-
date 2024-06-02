@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # App Landing Page Finance Bank Money (Community)
 
@@ -8,3 +9,6 @@
   2) In the terminal, run `npm install`
   3) Run `npm start` to view project in browser
   
+=======
+This is a responsive website for laptops or mobiles.
+>>>>>>> 64d4c74e44217b3624557824240282534ba9b9c3
