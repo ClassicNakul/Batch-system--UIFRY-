@@ -98,10 +98,18 @@
   min-width: 60px;
   z-index: 8;
 }
+.home:hover{
+  color: black;
+  transition: 0.3s;
+}
 .about-us {
   flex: 1;
   min-width: 89px;
   white-space: nowrap;
+}
+.about-us:hover{
+  color: red;
+  transition: 0.3s;
 }
 .about-us,
 .features,
@@ -118,8 +126,16 @@
   display: inline-block;
   min-width: 68px;
 }
+.pricing:hover{
+  color: red;
+  transition: 0.3s;
+}
 .features {
   flex: 1;
+}
+.features:hover{
+  color: red;
+  transition: 0.3s;
 }
 .home-parent {
   margin: 0;
